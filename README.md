@@ -1,5 +1,5 @@
 # Hill_Climbing
-This repository simulates solutions for the Multi-Agent Travelling Salesman Problem (mTSP) using Hill Climbing and Random-Restart Hill Climbing.
+This repository simulates solutions for the Multiple Travelling Salesman Problem (mTSP) using Hill Climbing and Random-Restart Hill Climbing.
 
 Please run the jupyter notebook provided
 
